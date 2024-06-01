@@ -1,13 +1,14 @@
-👋 Hi, I’m @Adrianvelad
+•	👋 Hi, I’m Adrian Vela
 
-👀 I’m interested in Machine Learning, Big Data, Business Intelligence.
+•	👨🏻‍💻 I’m interested in Machine Learning, Big Data, Business Intelligence.
 
-🌱 I’m currently learning Cloud Computing and Machine Learning.
+•	💻 I’m currently learning Cloud Computing and Machine Learning.
 
-💞️ I’m looking to collaborate on projects related to these topics
+•	💞️ I’m looking to collaborate on projects related to these topics
 
-📫 How to reach me:
+•	📫 How to reach me:
 
 Linkedin: https://www.linkedin.com/in/adrianvelad/
 
 Gmail: adrianvelad@gmail.com
+
