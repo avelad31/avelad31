@@ -3,6 +3,7 @@
 - 📚 Learning everything about Machine Learning, Statistics, Cloud Computing and IA. 
 - 💪🏼 Future Goals: Learn more technologies and tools - Never stop creating new ideas.
 - 💬 Talk to me about Space, Science, Finance, anything that interests you.
+- 📫 Reach me at adrianvelad@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianvelad)
