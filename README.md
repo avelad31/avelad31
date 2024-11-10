@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [Adrian Vela!](https://github.com/avelad31/)
 - 👨‍💻 I’m currently working on **machine learning models and and AI solutions** to drive strategic insights and business value.
 Experienced in Python, database and data analysis tools to make solid data-driven decisions and reporting.
-- 📚 Learning everything about **Machine Learning, Pricing, Statistics, Cloud Computing and IA**. 
+- 📚 Learning everything about **Machine Learning, BI, Pricing, Statistics, Cloud Computing and IA**. 
 - 💪🏼 **Future Goals:**  Learn more technologies and tools - Never stop creating new ideas.
 - 💬 Talk to me about **Space, Science, Finance, Business**, anything that interests you.
 - 📫 Reach me at adrianvelad@gmail.com
