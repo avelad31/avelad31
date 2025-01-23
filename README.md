@@ -1,5 +1,5 @@
 ### Hi there 👋
-¡Hola! Soy Adrian Vela, un apasionado de la **analítica de datos**, **IA** y las **automatizaciones** . 🚀 Transformo datos en soluciones innovadoras que optimizan procesos y generan valor estratégico. 💡 Con experiencia en **Machine Learning**, **Python**, **BI** y **bases de datos**, mi meta es crear herramientas que impulsen decisiones basadas en datos sólidos y eficientes. 📊⚙️
+¡Hola! Soy Adrian Vela Diaz , un apasionado de la **analítica de datos**, **IA** y las **automatizaciones** . 🚀 Transformo datos en soluciones innovadoras que optimizan procesos y generan valor estratégico. 💡 Con experiencia en **Machine Learning**, **Python**, **BI** y **bases de datos**, mi meta es crear herramientas que impulsen decisiones basadas en datos sólidos y eficientes. 📊⚙️
 
 📚 Siempre estoy explorando nuevas tecnologías en **IA, Cloud Computing y Estadística,** siempre buscando nuevas tecnologías y métodos para potenciar la analítica y la eficiencia operativa. Si estás listo para explorar cómo la **Analítica de datos y las Automatizaciones** pueden llevar tus proyectos al siguiente nivel, ¡conversemos! 💻✨
 
