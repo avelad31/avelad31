@@ -1,7 +1,7 @@
 ### Hi there 👋
-¡Hola! Soy Adrian Vela Diaz , un apasionado de la **analítica de datos**, **IA** y las **automatizaciones** . 🚀 Transformo datos en soluciones innovadoras que optimizan procesos y generan valor estratégico. 💡 Con experiencia en proyectos en **Python**, **BI**, **bases de datos** y proyectos de **Machine Learning**, también en el diseño de **ETLs / pipelines de datos** (extracción, transformación y carga) para asegurar información limpia, consistente y lista para análisis, priorizando siempre que la construcción sea **útil, entendible y escalable**. 📊⚙️
+¡Hola! Soy Adrian Vela Diaz , un apasionado de la **analítica de datos**, **IA** y las **automatizaciones** . 🚀 Transformo datos en soluciones innovadoras que optimizan procesos y generan valor estratégico. 💡 Con experiencia en proyectos en **Python**, **BI**, **bases de datos** y proyectos de **Machine Learning**, también en el diseño de **ETLs / pipelines de datos**, priorizando siempre que la construcción sea **útil, entendible y escalable**. 📊⚙️
 
-📚 Siempre estoy explorando y aprendiendo nuevas tecnologías en **IA, Cloud Computing y Automatización,** buscando potenciar la analítica, la eficiencia operativa y la decisiones basadas en datos. Si te interesa colaborar o conversar sobre ideas y proyectos, ¡escríbeme! 🚀
+📚 Siempre estoy explorando y aprendiendo nuevas tecnologías en **Cloud Computing, IA Aplicada,** y nuevas formas de automatizar procesos para generar impacto medible en negocio. Si te interesa colaborar o conversar sobre ideas y proyectos, ¡escríbeme! 🚀
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianvelad)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianvelad@gmail.com)
