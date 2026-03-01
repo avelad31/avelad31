@@ -1,7 +1,8 @@
 ### Hi there 👋
-¡Hola! Soy Adrian Vela Diaz , un apasionado de la **analítica de datos**, **IA** y las **automatizaciones** . 🚀 Transformo datos en soluciones innovadoras que optimizan procesos y generan valor estratégico. 💡 Con experiencia en proyectos en **Python**, **BI**, **bases de datos** y proyectos de **Machine Learning**, también en el diseño de **ETLs / pipelines de datos**, priorizando siempre que la construcción sea **útil, entendible y escalable**. 📊⚙️
+¡Hola! Soy Adrian Vela Diaz , un apasionado de la **Analítica de datos**, **IA**, **Cloud Computing** y las **Automatizaciones** . 🚀 Transformo datos en soluciones innovadoras que optimizan procesos y generan valor estratégico. 
+💡Con experiencia en proyectos usando **Python**, **Power BI**, **SQL**, **Azure**, **Power Automate** y proyectos de **Machine Learning** orientados a Finanzas, también en el diseño de **ETLs / pipelines de datos / orquestaciones**, priorizando siempre que la implementacion sea **de mejor rendimiento, entendible y escalable**. 📊⚙️
 
-📚 Siempre estoy explorando y aprendiendo nuevas tecnologías en **Cloud Computing, IA Aplicada,** y nuevas formas de automatizar procesos para generar impacto medible en negocio. Si te interesa colaborar o conversar sobre ideas y proyectos, ¡escríbeme! 🚀
+📚 Siempre estoy explorando y aprendiendo nuevas tecnologías en **Cloud Computing, IA Aplicada,** y nuevas formas de **automatizar procesos** para generar impacto medible en negocio. Si te interesa colaborar o conversar sobre ideas y proyectos, ¡escríbeme! 🚀
 
 ## 🏅 Certifications
 
