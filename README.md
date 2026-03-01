@@ -2,6 +2,15 @@
 ¡Hola! Soy Adrian Vela Diaz , un apasionado de la **analítica de datos**, **IA** y las **automatizaciones** . 🚀 Transformo datos en soluciones innovadoras que optimizan procesos y generan valor estratégico. 💡 Con experiencia en proyectos en **Python**, **BI**, **bases de datos** y proyectos de **Machine Learning**, también en el diseño de **ETLs / pipelines de datos**, priorizando siempre que la construcción sea **útil, entendible y escalable**. 📊⚙️
 
 📚 Siempre estoy explorando y aprendiendo nuevas tecnologías en **Cloud Computing, IA Aplicada,** y nuevas formas de automatizar procesos para generar impacto medible en negocio. Si te interesa colaborar o conversar sobre ideas y proyectos, ¡escríbeme! 🚀
+
+## 🏅 Certifications
+
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/users/adrianvd-8590/credentials/d97388a5522c43f1"><img src="./assets/badges/DP900.png" alt="Azure Data Fundamentals (DP-900)" height="95"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://credentials.databricks.com/3a7b45d5-a790-49da-b753-2c9ba3ba956f#acc.JSLQRAZE"><img src="./assets/badges/databricks-fundamentals.png" alt="Databricks Fundamentals" height="95"/></a>&nbsp;
+  <a href="https://www.credly.com/badges/a2906d0f-9320-4686-9a17-87812e4ddfb7/linked_in_profile"><img src="./assets/badges/scrum-master-certiprof.png" alt="Scrum Master CertiProf" height="107"/></a>
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianvelad)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianvelad@gmail.com)
