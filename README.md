@@ -6,9 +6,9 @@
 ## 🏅 Certifications
 
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/users/adrianvd-8590/credentials/d97388a5522c43f1"><img src="./assets/badges/DP900.png" alt="Azure Data Fundamentals (DP-900)" height="95"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://credentials.databricks.com/3a7b45d5-a790-49da-b753-2c9ba3ba956f#acc.JSLQRAZE"><img src="./assets/badges/databricks-fundamentals.png" alt="Databricks Fundamentals" height="95"/></a>&nbsp;
-  <a href="https://www.credly.com/badges/a2906d0f-9320-4686-9a17-87812e4ddfb7/linked_in_profile"><img src="./assets/badges/scrum-master-certiprof.png" alt="Scrum Master CertiProf" height="107"/></a>
+  <a href="https://learn.microsoft.com/en-us/users/adrianvd-8590/credentials/d97388a5522c43f1"><img src="./assets/badges/DP900.png" alt="Azure Data Fundamentals (DP-900)" height="94"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://credentials.databricks.com/3a7b45d5-a790-49da-b753-2c9ba3ba956f#acc.JSLQRAZE"><img src="./assets/badges/databricks-fundamentals.png" alt="Databricks Fundamentals" height="97"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/a2906d0f-9320-4686-9a17-87812e4ddfb7/linked_in_profile"><img src="./assets/badges/scrum-master-certiprof.png" alt="Scrum Master CertiProf" height="97"/></a>
 </p>
 
 ## 🌐 Socials:
